@@ -51,4 +51,25 @@ Aを〜するように説得する,persuade A to do
 〜を廃止する,do away with
 …するといけないから,(just) in case
 〜の埋め合わせをする,make up for
+(親など)に似ている,take after
+〜するよう義務付けられている,be obliged to do
+徐々に,by degrees
+行ったり来たり,back and forth
+AをBに伝える,pass on A to B
+裕福である,be well off
+(あり合わせのもの)で済ます,make do with
+(〜から)走り去る,run away from
+〜に加えて,on top of
+いわゆる,what is called
+〜することに気が進まない,be reluctant to do
+〜になりやすい,be subject to
+〜と顔見知りである,be acquainted with
+困っている,be at a loss
+決して〜でない,anything but
+Aを訪ねる,call on A
+〜に従事している,be engaged in
+〜に関しては,as for [to]
+〜によって,by means of
+決して〜でない,far from
+進んで〜する,be willing to do
 ```
