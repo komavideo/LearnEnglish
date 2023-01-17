@@ -83,4 +83,12 @@ Aを訪ねる,call on A
 (職・責任など)を引き継ぐ,take over
 AをBと見分ける,tell [distinguish] A from B
 〜に思い焦がれる,long for
+(電話で)そちらにAさんはいますか？,Is A there?
+〜はどうですか？,What do you say to ~?
+〜しましょうか。,Would you like me to do?
+〜しませんか。〜したいですか。,Do you want to do?
+〜に巻き込まれました。,I got stuck in ~
+ぜひそうしたいです。,I’d love to.
+〜は都合がつきますか？,Can you make it ~?
+〜はいかがですか。,Would you like ~?
 ```
