@@ -72,4 +72,15 @@ Aを訪ねる,call on A
 〜によって,by means of
 決して〜でない,far from
 進んで〜する,be willing to do
+何とかやっていく,get by
+〜に近寄らない,keep off
+(交通・生産など)を遅らせる,hold up
+〜を試験する,try out
+１つずつ,one by one
+(寝ないで)起きている,sit up
+〜を我慢する,put up with
+〜のために,on account of
+(職・責任など)を引き継ぐ,take over
+AをBと見分ける,tell [distinguish] A from B
+〜に思い焦がれる,long for
 ```
