@@ -91,4 +91,9 @@ AをBと見分ける,tell [distinguish] A from B
 ぜひそうしたいです。,I’d love to.
 〜は都合がつきますか？,Can you make it ~?
 〜はいかがですか。,Would you like ~?
+と主張する,argue
+〜次第である,depend on [upon]
+細菌,bacteria
+〜しましょうか。,Do you want me to do?
+(組織的)計画,project
 ```
