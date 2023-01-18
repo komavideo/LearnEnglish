@@ -96,4 +96,5 @@ AをBと見分ける,tell [distinguish] A from B
 細菌,bacteria
 〜しましょうか。,Do you want me to do?
 (組織的)計画,project
+病原体,pathogen
 ```
