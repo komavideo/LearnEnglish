@@ -97,6 +97,7 @@ AをBと見分ける,tell [distinguish] A from B
 〜しましょうか。,Do you want me to do?
 (組織的)計画,project
 病原体,pathogen
+病原菌,microbe
 を当惑させる,confuse
 事実として,indeed
 から奪う,rob
@@ -109,4 +110,12 @@ AをBと見分ける,tell [distinguish] A from B
 混雑,jam
 偶然に、誤って,accidentally
 民族的な、人種的な,ethnic
+訳のわからない,irrational
+死亡率,mortality
+道徳,morality
+(絵画、彫刻、写真、映画など)表現する、描く,portray
+(絵・彫刻・言葉など)描く,depict
+指導教官,counselor
+精神病学の,psychiatric
+精神科医,psychiatrist
 ```
