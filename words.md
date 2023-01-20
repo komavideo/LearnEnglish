@@ -125,6 +125,8 @@ AをBと見分ける,tell [distinguish] A from B
 精神病学の,psychiatric
 精神科医,psychiatrist
 心理学,psychology
+哲学者,philosopher
+考古学者,archaeologist
 領土の、土地の,territorial
 ひどく,terribly
 彫刻(作品),sculpture
@@ -132,6 +134,7 @@ AをBと見分ける,tell [distinguish] A from B
 提案(書),proposal
 ～が起きるのを止める,prevent
 (の)ふりをする,pretend
+競う,contend
 に抗議する,protest
 酸素,oxygen
 水素,hydrogen
@@ -143,4 +146,7 @@ AをBと見分ける,tell [distinguish] A from B
 驚かす、びっくりさせる,astonish
 を大喜びさせる,delight
 無駄に,in vain
+寄生生物,parasite
+殺虫剤,pesticide
+厳しさ,severity
 ```
