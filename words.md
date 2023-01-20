@@ -127,6 +127,7 @@ AをBと見分ける,tell [distinguish] A from B
 心理学,psychology
 哲学者,philosopher
 考古学者,archaeologist
+古生物学者,paleontologist
 領土の、土地の,territorial
 ひどく,terribly
 彫刻(作品),sculpture
@@ -149,4 +150,6 @@ AをBと見分ける,tell [distinguish] A from B
 寄生生物,parasite
 殺虫剤,pesticide
 厳しさ,severity
+阻む、阻止する、思いとどまらせる,deter
+差別する,discriminate
 ```
