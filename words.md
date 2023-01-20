@@ -10,14 +10,17 @@
 寮,dormitory
 ほのめかす,imply
 犠牲,sacrifice
+犠牲者,victim
 賠償,compensate
 通勤,commute
 邪魔する、干渉する,interfere
 課する,impose
 ばかげている,ridiculous
+くだけた,informal
 きまりの悪い,embarrassed
 高級な,exclusive
 賞賛する,admire
+認める、称賛する,hail
 抱き締める,hug
 飼育,breed
 出血,bleed
@@ -86,6 +89,7 @@ AをBと見分ける,tell [distinguish] A from B
 (電話で)そちらにAさんはいますか？,Is A there?
 〜はどうですか？,What do you say to ~?
 〜しましょうか。,Would you like me to do?
+〜しましょうか。,Do you want me to do?
 〜しませんか。〜したいですか。,Do you want to do?
 〜に巻き込まれました。,I got stuck in ~
 ぜひそうしたいです。,I’d love to.
@@ -94,7 +98,6 @@ AをBと見分ける,tell [distinguish] A from B
 と主張する,argue
 〜次第である,depend on [upon]
 細菌,bacteria
-〜しましょうか。,Do you want me to do?
 (組織的)計画,project
 病原体,pathogen
 病原菌,microbe
@@ -110,12 +113,28 @@ AをBと見分ける,tell [distinguish] A from B
 混雑,jam
 偶然に、誤って,accidentally
 民族的な、人種的な,ethnic
-訳のわからない,irrational
-死亡率,mortality
+道徳,ethic
 道徳,morality
+死亡率,mortality
+訳のわからない,irrational
 (絵画、彫刻、写真、映画など)表現する、描く,portray
 (絵・彫刻・言葉など)描く,depict
 指導教官,counselor
 精神病学の,psychiatric
 精神科医,psychiatrist
+心理学,psychology
+領土の、土地の,territorial
+ひどく,terribly
+彫刻(作品),sculpture
+を継ぐ,inherit
+提案(書),proposal
+～が起きるのを止める,prevent
+(の)ふりをする,pretend
+に抗議する,protest
+酸素,oxygen
+水素,hydrogen
+弁護士,lawyer/attorney
+～を夢中にさせる,absorb
+率直に,frankly
+白状する、告白する,confess
 ```
