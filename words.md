@@ -33,12 +33,14 @@ AにBを求める,ask A for B
 AがBできるように,so that A can B
 BだけでなくAもまた,A as well as B
 まるで…のように,as if [though]
+たとえ…だとしても,even if [though]
 何とかして…する,manage to do
 …する限りは,as [so] long as
 これまでは,so far
 〜に追いつく,catch up with
 〜を偶然見つける,come across
 次の通り,as follows
+〜に屈する,give in to
 〜を当てにする,count on [upon]
 Aを〜するように説得する,persuade A to do
 〜を詳しく説明する,go into
@@ -137,4 +139,8 @@ AをBと見分ける,tell [distinguish] A from B
 ～を夢中にさせる,absorb
 率直に,frankly
 白状する、告白する,confess
+貴重な,precious/Salt is as precious as gold in many places.
+驚かす、びっくりさせる,astonish
+を大喜びさせる,delight
+無駄に,in vain
 ```
