@@ -57,6 +57,15 @@ Aを〜するように説得する,persuade A to do
 …するといけないから,(just) in case
 〜の埋め合わせをする,make up for
 (親など)に似ている,take after
+(職・責任など)を引き継ぐ,take over
+(趣味・仕事として)〜を始める,take up
+〜を廃止する,do away with
+〜を経験する,go through
+〜を詳しく調べる,go over
+〜を中止する,call off
+これまでは,so far
+何を…しても,no matter what
+何よりも,above all
 〜するよう義務付けられている,be obliged to do
 徐々に,by degrees
 行ったり来たり,back and forth
@@ -73,6 +82,7 @@ AをBに伝える,pass on A to B
 決して〜でない,anything but
 Aを訪ねる,call on A
 〜に従事している,be engaged in
+～と婚約する,be engaged to
 〜に関しては,as for [to]
 〜によって,by means of
 決して〜でない,far from
@@ -84,8 +94,8 @@ Aを訪ねる,call on A
 １つずつ,one by one
 (寝ないで)起きている,sit up
 〜を我慢する,put up with
+〜を延期する,put off
 〜のために,on account of
-(職・責任など)を引き継ぐ,take over
 AをBと見分ける,tell [distinguish] A from B
 〜に思い焦がれる,long for
 (電話で)そちらにAさんはいますか？,Is A there?
@@ -152,4 +162,7 @@ AをBと見分ける,tell [distinguish] A from B
 厳しさ,severity
 阻む、阻止する、思いとどまらせる,deter
 差別する,discriminate
+もし…なら,provided that
+〜を見せびらかす,show off
+事実上,in effect
 ```
