@@ -165,4 +165,10 @@ AをBと見分ける,tell [distinguish] A from B
 もし…なら,provided that
 〜を見せびらかす,show off
 事実上,in effect
+居住者,resident
+居住者,inhabitant
+居住、生息,inhabitation
+居住,inhabit
+抑止,inhibit
+説得力のある,compelling
 ```
