@@ -170,5 +170,8 @@ AをBと見分ける,tell [distinguish] A from B
 居住、生息,inhabitation
 居住,inhabit
 抑止,inhibit
+展示品,exhibit
 説得力のある,compelling
+監視する,surveil
+監視,surveillance
 ```
