@@ -63,7 +63,6 @@ Aを〜するように説得する,persuade A to do
 〜を経験する,go through
 〜を詳しく調べる,go over
 〜を中止する,call off
-これまでは,so far
 何を…しても,no matter what
 何よりも,above all
 〜するよう義務付けられている,be obliged to do
@@ -109,15 +108,16 @@ AをBと見分ける,tell [distinguish] A from B
 〜はいかがですか。,Would you like ~?
 と主張する,argue
 〜次第である,depend on [upon]
-細菌,bacteria
 (組織的)計画,project
 病原体,pathogen
 病原菌,microbe
+細菌,bacteria
 を当惑させる,confuse
 事実として,indeed
 から奪う,rob
 貧困,poverty
 手術,surgery
+偽造(物),forgery
 物事を心配してる,anxious
 心配、不安,anxiety
 仮説,theory
@@ -128,7 +128,6 @@ AをBと見分ける,tell [distinguish] A from B
 道徳,ethic
 道徳,morality
 死亡率,mortality
-訳のわからない,irrational
 (絵画、彫刻、写真、映画など)表現する、描く,portray
 (絵・彫刻・言葉など)描く,depict
 指導教官,counselor
@@ -185,7 +184,7 @@ AをBと見分ける,tell [distinguish] A from B
 落ち込み、意気消沈、絶望,depression
 湿気、湿度,humidity
 繊細な,delicate
-不合理な、理不尽な,irrational
+不合理な、理不尽な、訳のわからない,irrational
 ばかげている,ridiculous
 原産の、土着の,indigenous
 材料、ネタ、原料,ingredient
