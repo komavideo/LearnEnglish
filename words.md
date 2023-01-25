@@ -21,6 +21,7 @@
 高級な,exclusive
 賞賛する,admire
 認める、称賛する,hail
+称賛、褒めること,praise
 抱き締める,hug
 飼育,breed
 出血,bleed
@@ -154,6 +155,7 @@ AをBと見分ける,tell [distinguish] A from B
 率直に,frankly
 白状する、告白する,confess
 貴重な,precious/Salt is as precious as gold in many places.
+前の、以前の,previous
 驚かす、びっくりさせる,astonish
 を大喜びさせる,delight
 無駄に,in vain
@@ -174,4 +176,14 @@ AをBと見分ける,tell [distinguish] A from B
 説得力のある,compelling
 監視する,surveil
 監視,surveillance
+犯罪者,criminal
+違反者、犯則者,offender
+高度,altitude
+態度,attitude
+経度,longitude
+緯度,latitude
+奮い立たせる(ふるいたたせる),inspire
+落ち込み、意気消沈、絶望,depression
+湿気、湿度,humidity
+繊細な,delicate
 ```
