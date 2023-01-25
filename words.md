@@ -15,7 +15,6 @@
 通勤,commute
 邪魔する、干渉する,interfere
 課する,impose
-ばかげている,ridiculous
 くだけた,informal
 きまりの悪い,embarrassed
 高級な,exclusive
@@ -186,4 +185,11 @@ AをBと見分ける,tell [distinguish] A from B
 落ち込み、意気消沈、絶望,depression
 湿気、湿度,humidity
 繊細な,delicate
+不合理な、理不尽な,irrational
+ばかげている,ridiculous
+原産の、土着の,indigenous
+材料、ネタ、原料,ingredient
+免除する、解放する,exonerate
+投獄、拘禁,imprisonment
+投獄、監禁,incarceration
 ```
