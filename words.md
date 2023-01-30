@@ -165,6 +165,8 @@ AをBと見分ける,tell [distinguish] A from B
 もし…なら,provided that
 〜を見せびらかす,show off
 事実上,in effect
+生息環境,habitat
+住人、居住者,habitant
 居住者,resident
 居住者,inhabitant
 居住、生息,inhabitation
@@ -184,6 +186,7 @@ AをBと見分ける,tell [distinguish] A from B
 落ち込み、意気消沈、絶望,depression
 湿気、湿度,humidity
 繊細な,delicate
+放射線治療(法),irradiation
 不合理な、理不尽な、訳のわからない,irrational
 ばかげている,ridiculous
 原産の、土着の,indigenous
@@ -191,4 +194,5 @@ AをBと見分ける,tell [distinguish] A from B
 免除する、解放する,exonerate
 投獄、拘禁,imprisonment
 投獄、監禁,incarceration
+火薬,gunpowder
 ```
